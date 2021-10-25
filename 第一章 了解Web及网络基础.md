@@ -4,7 +4,9 @@
 
 ### TCP/IP的分层管理
 
-TCP/IP被我们熟知，其中最重要的一点是分层。其协议族里按层次分别被划分为以下4层（此书中为4层模型）：![](E:\HttpLearning\pic\TCP协议族4层模型.png)
+TCP/IP被我们熟知，其中最重要的一点是分层。其协议族里按层次分别被划分为以下4层（此书中为4层模型）：
+
+![TCP协议族4层模型](E:\HttpLearning\pic\TCP协议族4层模型.png)
 
 1. <font color = "red">应用层</font>
 2. <font color = "red">传输层</font>
